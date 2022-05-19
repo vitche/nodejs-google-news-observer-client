@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/vitche/nodejs-google-news-observer-client#readme",
   "dependencies": {
-    "fetch": "^1.1.0"
+    "node-fetch": "^3.2.4"
   }
 }
