@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-google-news-observer-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitche/nodejs-google-news-observer-client.git"
+  },
+  "author": "Vitche Research Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitche/nodejs-google-news-observer-client/issues"
+  },
+  "homepage": "https://github.com/vitche/nodejs-google-news-observer-client#readme"
+}
